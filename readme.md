@@ -1,1 +1,1 @@
-The Artisanhub is an online marketplace supporting local artists and artisans by offering an accessible space to sell handmade crafts. It provides essential e-commerce features to help small creators expand their reach and income.
+A mern based local market place for artisians.
